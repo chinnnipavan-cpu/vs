@@ -1,5 +1,5 @@
 import csv
-
+()
 students = []
 
 with open("row.csv", newline="", encoding="utf-8") as file:
